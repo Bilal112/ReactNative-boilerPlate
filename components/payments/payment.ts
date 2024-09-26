@@ -9,7 +9,7 @@ export const usePayment = () => {
 
   const fetchPaymentSheetParams = async () => {
     try {
-      const response = await fetch(`http://192.168.1.107:3000/payment-sheet`, {
+      const response = await fetch(`https://wholesale-sideways-jaborosa.glitch.me/payment-sheet`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
