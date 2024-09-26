@@ -1,6 +1,3 @@
 export const PUBLIC_KEY =
   "pk_test_51MfD25EAscPFjbrbzXT1fisRksQYlf5UAnuCWktaVb9tGmFZXnOJIHm4ZBPYwCWvS6kvF50VujYIOYjEFlgQ3REu00jj4rXoQt";
 
-export const SECRET_KEY =
-  "sk_test_51MfD25EAscPFjbrbGX7zzYVWfC76VL8aeFm1EK34joBOuo6tiqWPBpPdvvfVqbswqGUCyxZENpY2ks2YQZqv46gD00gXL7hmWO";
-
